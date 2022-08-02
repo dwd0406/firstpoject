@@ -7,7 +7,7 @@ forfun is a responsive React app interface for blog reports built on [Semantic-U
 
 #### requirement
 - [Node.js](https://nodejs.org/zh-tw/download/) > 18
-- [firebase](https://firebase.google.com/?gclid=CjwKCAjwlqOXBhBqEiwA-hhitEnm0YBkEzTCkqa7igIVebyh15n7U3FxZ8zAX3TCzaMjiwoUQ2CHExoCIW8QAvD_BwE&gclsrc=aw.ds)
+- [firebase](https://firebase.google.com/?gclid=CjwKCAjwlqOXBhBqEiwA-hhitEnm0YBkEzTCkqa7igIVebyh15n7U3FxZ8zAX3TCzaMjiwoUQ2CHExoCIW8QAvD_BwE&gclsrc=aw.ds)> V9
 
 #### Clone the repo
 ```bash
