@@ -1,5 +1,5 @@
-# GHL 
-GHL is a responsive React app interface for manangerment medical reports built on [Material-UI](https://mui.com/zh/) .
+# forfun
+forfun is a responsive React app interface for blog reports built on [Semantic-UI](https://react.semantic-ui.com/) .
 
 ![](https://github.com/johnny990628/GHL_Frontend/blob/master/public/ghl.gif)
 <img src="./public/logo.png" width="20%" />
@@ -7,33 +7,18 @@ GHL is a responsive React app interface for manangerment medical reports built o
 ## Installation
 
 #### requirement
-- [Node.js](https://nodejs.org/zh-tw/download/) > 16
-- [GHL_Backend](https://github.com/johnny990628/GHL_backend)
-
-#### Set up the backend server
-
-[GHL Backend](https://github.com/johnny990628/GHL_backend)
+- [Node.js](https://nodejs.org/zh-tw/download/) > 18
+- [firebase](https://firebase.google.com/?gclid=CjwKCAjwlqOXBhBqEiwA-hhitEnm0YBkEzTCkqa7igIVebyh15n7U3FxZ8zAX3TCzaMjiwoUQ2CHExoCIW8QAvD_BwE&gclsrc=aw.ds)
 
 #### Clone the repo
 ```bash
-git clone https://github.com/johnny990628/GHL_Frontend
-cd GHL_Frontend
+git clone https://github.com/xcv46/forfun
+cd forfun
 ```
 
 #### Install dependencies
 ```bash
 npm install
-```
-
-## Configuration
-
-#### dotenv
-
-```bash
-REACT_APP_API_URL="your api url"
-REACT_APP_AUTH_URL="your user authentication url"
-REACT_APP_ROUTE_BASENAME="your route base name"
-REACT_APP_BLUELIGHT_URL="dicom server url"
 ```
 
 #### Run the app
@@ -42,4 +27,4 @@ npm run start
 ```
 
 ## Author
-[johnny990628](https://github.com/johnny990628)
+[xcv46](https://github.com/xcv46)
