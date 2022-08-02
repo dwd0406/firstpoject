@@ -1,0 +1,4 @@
+body {
+    background: url("./img/bg_1.jpg") 50% 50% fixed no-repeat;
+    background-size: cover;
+  }
