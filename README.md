@@ -1,9 +1,6 @@
 # forfun
 forfun is a responsive React app interface for blog reports built on [Semantic-UI](https://react.semantic-ui.com/) .
 
-![](https://github.com/johnny990628/GHL_Frontend/blob/master/public/ghl.gif)
-<img src="./public/logo.png" width="20%" />
-
 ## Installation
 
 #### requirement
