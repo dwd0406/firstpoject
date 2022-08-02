@@ -1,6 +1,8 @@
 # forfun
 forfun is a responsive React app interface for blog reports built on [Semantic-UI](https://react.semantic-ui.com/) .
 
+![](https://cdn.discordapp.com/attachments/692608173776961546/1004004062062202950/unknown.png)
+
 ## Installation
 
 #### requirement
